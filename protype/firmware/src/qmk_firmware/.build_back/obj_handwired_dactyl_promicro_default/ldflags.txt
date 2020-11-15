@@ -1,0 +1,1 @@
+-Wl,--gc-sections -Wl,-Map=.build/handwired_dactyl_promicro_default.map,--cref     -lm 
